@@ -1,3 +1,3 @@
-# stopobjectifyzing
+# HerAds
 A mobile app with an extension that can use artificial intelligence to block sexist and sexually objectifying ads.
 Due to normalized sexism and objectification in advertising, the gap between society and the achievement of gender equality is increasing. Sexualization, fixed gender stereotypes, victim blaming, and harassment are entrenched in the public consciousness because of the advertising, which sells not goods, but women with its sexist headlines and formulation. With the help of such an extension, we are trying to protect social consciousness from sexist marketing and normalization of gender stereotypes. This way, victims of sexualization and violence will be able to feel comfortable in the Internet space. / Our solution is to create an application with an extension available for the phone, where artificial intelligence will detect sexist advertising and censor it, deliberately warning the user that the content harms people.
